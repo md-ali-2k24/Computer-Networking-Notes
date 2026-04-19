@@ -1,0 +1,9 @@
+=>ping 192.168.10.1	/ping domainName or IP
+=>ipconfig 		/toFindIp address
+=>tracert ius.edu.bd 	/tracert domainName 
+=>nslookup ius.edu.bd 	/nslookup domainName 
+=>netstat		/Proto  Local Address //Foreign Address//State
+==> wireshark.org
+
+Mark Distribuation : 
+Attendents 10 Assament 20 Project 40 Final 20 mid 10
